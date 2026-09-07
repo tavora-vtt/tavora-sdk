@@ -8,6 +8,9 @@ Design: [concept doc 06](https://github.com/tavora-vtt/tavora-docs/blob/main/con
 and [concept doc 15](https://github.com/tavora-vtt/tavora-docs/blob/main/concept/15-design-system.md)
 for the host component vocabulary.
 
+> Links to `tavora-docs` point at a repository that is currently private, so they resolve
+> only for members of the organisation. The design rationale will open up with it.
+
 ## Status
 
 Milestone M5. This package currently pins the shape of the manifest and the capability
